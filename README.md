@@ -1,5 +1,5 @@
-# GSOC-C3G
-Selection Test Submission
+# Population Genetics
+C3G Selection Test Submission
 
 ## Additional Implementations
 1. Effect of Heterozygosity
